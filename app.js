@@ -1,3 +1,3 @@
 if ('serviceWorker' in navigator) {
-	navigator.serviceWorker.register('./service-worker.js')
+	navigator.serviceWorker.register(`${location.href}/service-worker.js`)
 }
