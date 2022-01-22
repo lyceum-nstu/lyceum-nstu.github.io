@@ -1,0 +1,17 @@
+{
+	"name": "pwa",
+	"version": "1.0.0",
+	"description": "Pwa for lyceum.nstu pages",
+	"main": "index.html",
+	"scripts": {
+		"dev": "npx live-server .",
+		"format": "npx prettier --write ."
+	},
+	"repository": "https://github.com/lyceum-nstu/pwa.git",
+	"author": "Alexiy Rybin <alexiy.rybin@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"live-server": "^1.2.1",
+		"prettier": "^2.5.1"
+	}
+}
