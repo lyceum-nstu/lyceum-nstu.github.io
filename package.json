@@ -11,7 +11,7 @@
 	"author": "Alexiy Rybin <alexiy.rybin@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
-		"live-server": "^1.2.1",
+		"live-server": "^1.2.2",
 		"prettier": "^2.6.2"
 	}
 }
